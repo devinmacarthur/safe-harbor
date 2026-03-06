@@ -22,6 +22,7 @@ Co-Ownership Agreement & Financial Analysis for 1708 NE 106th Avenue, Portland, 
 
 ### New proposal:
 - [Lot Split Proposal](docs/lot-split-proposal.md) -- House + land trade to resolve co-ownership
+- [Grant Funding Strategy](docs/grant-funding-strategy.md) -- How to fund development on the parcel
 
 ### The quick version:
 1. [Financial Summary](docs/01-financial-summary.md) -- All the numbers at a glance
