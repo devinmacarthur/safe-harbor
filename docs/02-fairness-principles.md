@@ -1,10 +1,3 @@
----
-title: Fairness Principles
-layout: default
-nav_order: 3
-parent: Contract Analysis
----
-
 # Fairness Principles Analysis
 
 ## The Core Dispute

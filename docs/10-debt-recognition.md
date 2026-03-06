@@ -1,10 +1,3 @@
----
-title: Debt Recognition Models
-layout: default
-nav_order: 2
-parent: Deep Dives
----
-
 # Debt Recognition Models
 
 ## The Core Insight
@@ -94,19 +87,3 @@ At sale:
 | **Model 5** (Commitment) | $26,054 | $17,011 |
 | **Model 6** (Commit+Floor) | $43,065 | $0 |
 
----
-
-## The Negotiation Spectrum
-
-```
-MORE FAVORABLE TO MAE                    MORE FAVORABLE TO STARSEED
-<------------------------------------------------------------->
-
-Model 3          Model 6          Model 5          Model 4
-(Waterfall)      (Commit+Floor)   (Commitment)     (Earn-In)
-   |                 |                |                |
-Parents get      Parents floor    Shared risk      Time-based
-$100k first      protected        from day one     50/50 vesting
-```
-
-**Model 6 is the natural compromise point** -- it recognizes Starseed's debt commitment while still protecting Mae's parents.

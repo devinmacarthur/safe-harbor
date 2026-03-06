@@ -1,9 +1,3 @@
----
-title: Spreadsheet Data
-layout: default
-nav_order: 5
----
-
 # Joint Venture Spreadsheet Analysis
 
 Detailed spreadsheets analyzing the real estate joint venture from every angle.
@@ -133,5 +127,4 @@ Both achieve **identical financial outcomes** but frame it differently:
 
 ---
 
-{: .note }
 > These spreadsheets use slightly different base numbers ($459K purchase) than the current contract analysis ($471,708 purchase) because they were created at an earlier stage. The principles and relative comparisons remain valid.

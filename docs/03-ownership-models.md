@@ -1,10 +1,3 @@
----
-title: Ownership Models
-layout: default
-nav_order: 4
-parent: Contract Analysis
----
-
 # Six Ownership Models Compared
 
 ## Baseline Numbers
@@ -216,7 +209,6 @@ Recognizes Starseed's debt commitment as real contribution. More equitable in gr
 ---
 
 ## MODEL 6 -- Commitment + Floor Protection (COMPROMISE)
-{: .text-green-200 }
 
 ### Concept
 Split by commitment ratio (60.5/39.5), BUT Mae's payout can never be less than $100,000 if sufficient equity exists. Best of both worlds.

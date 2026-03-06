@@ -1,10 +1,3 @@
----
-title: Hedonic Analysis
-layout: default
-nav_order: 3
-parent: Deep Dives
----
-
 # Hedonic Pricing Analysis
 
 ## Property Overview

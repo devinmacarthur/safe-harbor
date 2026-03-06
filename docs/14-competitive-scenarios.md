@@ -1,13 +1,6 @@
----
-title: Competitive Scenarios
-layout: default
-nav_order: 8
-parent: Deep Dives
----
-
 # Competitive Scenario Models
 
-If Mae chooses a capital-based ("competitive") ownership model, Starseed has the option to change the game by investing more capital.
+This document models how ownership percentages change if either party invests additional capital under a capital-based ownership model.
 
 ---
 
@@ -87,12 +80,6 @@ If taken to the extreme, here's what happens:
 
 ---
 
-## The Point
+## Key Takeaway
 
-This analysis isn't about threatening. It's about demonstrating that:
-
-1. **In competitive mode, capital is king** -- whoever has more, wins more
-2. **Starseed has the ability to invest more** if that's the game being played
-3. **Cooperative mode is better for everyone** -- it avoids this escalation entirely
-
-The existence of this counter-move is what makes the cooperative approach rational for both parties.
+In a capital-based ownership model, ownership percentages shift significantly based on who invests additional capital. This is an important dynamic to understand when choosing between cooperative and competitive ownership structures.

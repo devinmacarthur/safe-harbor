@@ -1,15 +1,7 @@
----
-title: JV Agreement Outline
-layout: default
-nav_order: 9
-parent: Deep Dives
----
-
 # Joint Venture Agreement Outline
 
 A comprehensive outline covering all aspects of a real estate joint venture agreement. This was the initial framework document.
 
-{: .warning }
 > This is a draft outline for discussion purposes. It must be reviewed by a licensed real estate attorney before use.
 
 ---

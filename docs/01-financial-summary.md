@@ -1,10 +1,3 @@
----
-title: Financial Summary
-layout: default
-nav_order: 2
-parent: Contract Analysis
----
-
 # House Co-Ownership Financial Summary
 
 ## Property Details

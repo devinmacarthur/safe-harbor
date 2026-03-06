@@ -1,10 +1,3 @@
----
-title: Game Theory Analysis
-layout: default
-nav_order: 4
-parent: Deep Dives
----
-
 # Game Theory Analysis: Cooperative vs. Competitive Ownership
 
 ## The Meta-Game
@@ -73,56 +66,9 @@ Payout = Net Proceeds x Your Ownership %
 
 ---
 
-## The Strategic Pivot: Starseed's Competitive Counter-Move
+## Key Takeaway
 
-If competitive mode is chosen, Starseed has a powerful option:
-
-| Scenario | Starseed Invests | Starseed Ownership |
-|----------|------------------|-------------------|
-| Current (no action) | $25,185 | 16.75% |
-| Pay off parents | $100,000 | 50% |
-| Majority position | $150,000 | 58% |
-| Dominant position | $200,000 | 64% |
-
----
-
-## The Choice Matrix
-
-![Game Theory Decision Tree](../assets/charts/14_game_theory_tree.png)
-
-| If Mae Chooses... | Starseed's Best Response | Outcome |
-|-------------------|--------------------------|---------|
-| **Cooperative** | Accept partnership | Both win equally |
-| **Competitive (passive)** | Accept junior role | Mae wins, Starseed loses |
-| **Competitive (aware)** | Counter-invest | Starseed wins, Mae loses |
-
-### The Nash Equilibrium
-
-- If both choose **Cooperative** -- Stable equilibrium, both satisfied
-- If both choose **Competitive** -- Unstable, escalation likely
-- If one chooses each -- The competitor exploits the cooperator
-
-**The rational choice:** Both parties should prefer Cooperative mode.
-
----
-
-## The Elegant Negotiation
-
-Don't threaten. Don't bluff. Simply present the choice clearly:
-
-> "I see two ways we can do this:
->
-> **Option A: Partners.** We're equals. Your parents get their $100K back, then we split everything 50/50.
->
-> **Option B: Investors.** Ownership is based on capital invested. Whoever puts in more, owns more.
->
-> I'm genuinely happy with either approach. But if we go with Option B, I want you to know -- I have the ability to invest significantly more.
->
-> Which approach feels right to you?"
-
----
-
-## Summary
+In game theory terms, **Cooperative mode is the stable equilibrium** -- both parties are satisfied and neither has incentive to change strategy. Competitive mode risks escalation and relationship damage.
 
 | Aspect | Cooperative | Competitive |
 |--------|-------------|-------------|
@@ -130,7 +76,4 @@ Don't threaten. Don't bluff. Simply present the choice clearly:
 | Primary metric | Equality | Capital |
 | Complexity | Simple | Complex |
 | Relationship | Preserved | Strained |
-| Starseed's position | Equal | Depends on investment |
-| Mae's position | Equal | Advantage (currently) |
 | Long-term stability | High | Low |
-| Recommended? | **Yes** | Only if necessary |

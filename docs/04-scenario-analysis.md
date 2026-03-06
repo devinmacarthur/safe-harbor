@@ -1,10 +1,3 @@
----
-title: Scenario Analysis
-layout: default
-nav_order: 5
-parent: Contract Analysis
----
-
 # Scenario Analysis
 
 ## Baseline Assumptions

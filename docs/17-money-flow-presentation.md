@@ -1,10 +1,3 @@
----
-title: Money Flow
-layout: default
-nav_order: 6
-parent: Deep Dives
----
-
 # Where Does the Money Go?
 
 A visual guide to co-ownership economics.

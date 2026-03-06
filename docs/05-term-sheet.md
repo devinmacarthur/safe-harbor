@@ -1,13 +1,5 @@
----
-title: Term Sheet
-layout: default
-nav_order: 6
-parent: Contract Analysis
----
-
 # Co-Ownership Agreement Term Sheet
 
-{: .warning }
 > **THIS IS NOT A LEGAL DOCUMENT.** This is a structured summary to take to a real estate attorney for drafting.
 
 ---

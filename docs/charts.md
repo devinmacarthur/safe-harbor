@@ -1,9 +1,3 @@
----
-title: Charts Gallery
-layout: default
-nav_order: 4
----
-
 # Charts Gallery
 
 All generated visualizations in one place.

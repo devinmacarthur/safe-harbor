@@ -1,10 +1,3 @@
----
-title: Contribution Model
-layout: default
-nav_order: 5
-parent: Deep Dives
----
-
 # Comprehensive Contribution Model: Cooperative vs. Competitive
 
 ## Verified Payment Data
@@ -108,10 +101,3 @@ parent: Deep Dives
 
 In **Cooperative mode**, all monthly payments are recognized. In **Competitive mode**, 85%+ of Starseed's contributions are ignored because interest, taxes, and insurance "don't count."
 
----
-
-## Recommendation
-
-**Cooperative mode is clearly better** because it recognizes all contributions -- not just the small principal portion of payments.
-
-> "By Year 5, I will have put over $100,000 into this house. If we only count 'capital,' that erases 85% of my contribution. That doesn't seem fair."
