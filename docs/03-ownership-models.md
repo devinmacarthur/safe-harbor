@@ -150,7 +150,7 @@ Start with ownership split based on initial contributions, then ownership shifts
 Mae early, Starseed late. Creates a "vesting" dynamic.
 
 ### Emotional Risk Level
-**MEDIUM** --- feels like Starseed is "earning" his way in, which can feel demeaning.
+**MEDIUM** --- feels like Starseed is "earning" their way in, which can feel demeaning.
 
 ### Earn-In Schedule
 

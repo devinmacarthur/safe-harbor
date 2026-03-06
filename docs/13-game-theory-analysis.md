@@ -62,7 +62,7 @@ Payout = Net Proceeds x Your Ownership %
 | Starseed (principal paid) | $25,185 | 16.75% |
 
 ### Who This Favors
-**Mae** -- Her parents' front-loaded capital dominates.
+**Mae** -- Their parents' front-loaded capital dominates.
 
 ---
 

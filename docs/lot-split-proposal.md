@@ -124,19 +124,19 @@ The core trade is straightforward:
 
 **Mae gives up:**
 - A strip of land along the side/back of the property
-- Starseed as a co-owner (which she may view as a benefit)
+- Starseed as a co-owner (which they may view as a benefit)
 
 **Mae receives:**
 - 100% ownership of the house
 - Sole control over the property (no more co-owner decisions)
-- Ability to refinance into her name alone (potentially at a lower rate)
+- Ability to refinance into their name alone (potentially at a lower rate)
 - Clean exit from the shared financial arrangement
 
 ### What Makes It Fair
 
-Starseed has paid approximately $1,545/month × (number of months living there) into the property. In a sale scenario at year 5, Starseed would only receive ~$22,618 after Mae's priority return. A land parcel valued at $50,000–$100,000+ represents a **significantly better outcome** for Starseed than a sale — while also giving Mae exactly what she wants: the house.
+Starseed has paid approximately $1,545/month × (number of months living there) into the property. In a sale scenario at year 5, Starseed would only receive ~$22,618 after Mae's priority return. A land parcel valued at $50,000–$100,000+ represents a **significantly better outcome** for Starseed than a sale — while also giving Mae exactly what they want: the house.
 
-Mae keeps the house (the valuable asset) and eliminates the complexity of co-ownership. Her parents' $100,000 investment is protected in the house equity. She only gives up land she may not be using.
+Mae keeps the house (the valuable asset) and eliminates the complexity of co-ownership. Their parents' $100,000 investment is protected in the house equity. They only give up land they may not be using.
 
 ---
 
@@ -237,12 +237,12 @@ The L-shape provides:
 
 The current mortgage is in both names. For the lot split to work:
 
-- **Mae refinances** the mortgage into her name only, secured by her parcel (house + lot)
+- **Mae refinances** the mortgage into their name only, secured by their parcel (house + lot)
 - **Starseed is released** from the joint mortgage obligation
 - **Lender approval** is needed — Guild Mortgage must approve the partition and release Starseed from the note
-- **Mae must qualify** for the refinance on her own (or with a co-signer)
+- **Mae must qualify** for the refinance on their own (or with a co-signer)
 
-This is a critical step. If Mae cannot refinance on her own, alternatives include:
+This is a critical step. If Mae cannot refinance on their own, alternatives include:
 - Mae's parents co-sign the refinance
 - Starseed remains on the mortgage for a transition period with a written agreement
 - Sell the property instead (fallback)
@@ -279,7 +279,7 @@ This is a critical step. If Mae cannot refinance on her own, alternatives includ
 - Reflects that Starseed has been paying half the mortgage on the entire property
 - Example: $84,000 market value sold at $40,000–$50,000
 - **Pro:** Simple cash transaction; Starseed gets clear title
-- **Con:** Mae may feel she's giving up value
+- **Con:** Mae may feel they're giving up value
 
 ---
 
@@ -301,7 +301,7 @@ This is a critical step. If Mae cannot refinance on her own, alternatives includ
 1. **Pull the tax assessment** — Visit [multcoproptax.com](https://multcoproptax.com/Property-Search) and get the land vs. improvement value breakdown
 2. **Get comparable sales** — Ask a realtor for recent vacant lot sales in Gateway/Parkrose 97220
 3. **Schedule a pre-application conference** — Portland Bureau of Development Services, (503) 823-7300. Cost ~$300–$500. They'll tell you exactly what's feasible on your specific lot.
-4. **Talk to Mae** — Present the concept and gauge her interest before spending money on surveys/applications
+4. **Talk to Mae** — Present the concept and gauge their interest before spending money on surveys/applications
 5. **Talk to Guild Mortgage** — Ask about the process for releasing one borrower after a lot partition
 6. **Consult a CPA** — Understand the tax implications for both parties (capital gains, business deductions, etc.)
 7. **Consult a real estate attorney** — Any partition agreement needs legal review
